@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sarath Shyam</title>
+    <link>https://sarathshyam.in/post/</link>
+    <description>Recent content in Posts on Sarath Shyam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 May 2018 16:59:46 +0530</lastBuildDate>
+    
+	<atom:link href="https://sarathshyam.in/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first open source contribution- Feeling awesome !</title>
+      <link>https://sarathshyam.in/post/first_os_contr/</link>
+      <pubDate>Sat, 12 May 2018 16:59:46 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/post/first_os_contr/</guid>
+      <description>Last week, a pull request that I created for fixing a bug in Spring cloud stream kafka streams binder got accepted. It feels really awesome :). I ran into this defect while building a stream processing application using kafka streams for a monitoring tool that I was building at work(which started as a hobby project).
+More than anything else, to me, the most important take away from this opportunity was to understand and navigate an un-familiar code base to see where it breaks and the impact of the fix.</description>
+    </item>
+    
+    <item>
+      <title>My Reference notes on Computer Science topics</title>
+      <link>https://sarathshyam.in/post/cs_refnotes/</link>
+      <pubDate>Sat, 02 Dec 2017 16:49:49 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/post/cs_refnotes/</guid>
+      <description>Today, I am starting a very ambitious personal project- an ever growing reference on things related to Computer Science and Software Engineering as I explore and learn. I started working on documenting this with the intention of becoming a better, more grounded and rounded Software Engineer. I would like to call it the list of ‘things I know that I don’t know them’, humbly reminding myself that no man knows it all- the more we have on our don’t know list, the more rounded we become.</description>
+    </item>
+    
+    <item>
+      <title>HowTo: Installing LetsEncrypt SSL certificate on AWS Bitnami EC2</title>
+      <link>https://sarathshyam.in/post/letsencrypt/</link>
+      <pubDate>Sun, 05 Feb 2017 15:12:42 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/post/letsencrypt/</guid>
+      <description>This blog is hosted at AWS on an EC2 VPS which is a Bitnami WordPress image. I decided to switch the blog to serve over HTTPS and in turn try out Let’sEncrypt which is a free, automated Certificate Authority(CA).
+With Let’Encrypt, certificate issuance is an automated process hence it is required to use an ACME client to prove that we have control over the domain for which we want to register the certificate for.</description>
+    </item>
+    
+    <item>
+      <title>Self Diagnosis Flash Lights for Mitsubishi Lancer 4G15</title>
+      <link>https://sarathshyam.in/post/lancer-self-diag/</link>
+      <pubDate>Sat, 04 Feb 2017 14:49:35 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/post/lancer-self-diag/</guid>
+      <description>My daily drive is a 2007 Mitsubishi Lancer(4G15). After playing with the OBDII port of my car and with the help from WWW, I could activate the self diagnosis mode of the Lancer 4G15 ECU.
+By doing a simple routine, we can read the error codes recorded in the ECU. The error codes are interpreted from the pattern of flashing of the Engine Check Light (ECL) in the dash.
+The above pic shows the schematic of the 16 Pin OBDII port.</description>
+    </item>
+    
+  </channel>
+</rss>

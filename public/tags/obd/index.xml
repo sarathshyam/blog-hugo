@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Obd on Sarath Shyam</title>
+    <link>https://sarathshyam.in/tags/obd/</link>
+    <description>Recent content in Obd on Sarath Shyam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 04 Feb 2017 14:49:35 +0530</lastBuildDate>
+    
+	<atom:link href="https://sarathshyam.in/tags/obd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Self Diagnosis Flash Lights for Mitsubishi Lancer 4G15</title>
+      <link>https://sarathshyam.in/post/lancer-self-diag/</link>
+      <pubDate>Sat, 04 Feb 2017 14:49:35 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/post/lancer-self-diag/</guid>
+      <description>My daily drive is a 2007 Mitsubishi Lancer(4G15). After playing with the OBDII port of my car and with the help from WWW, I could activate the self diagnosis mode of the Lancer 4G15 ECU.
+By doing a simple routine, we can read the error codes recorded in the ECU. The error codes are interpreted from the pattern of flashing of the Engine Check Light (ECL) in the dash.
+The above pic shows the schematic of the 16 Pin OBDII port.</description>
+    </item>
+    
+  </channel>
+</rss>

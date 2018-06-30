@@ -1,0 +1,50 @@
+baseurl = "http://192.168.1.5:8000/"
+copyright = "All rights reserved"
+disqusshortname = "sarathshyam-in"
+languagecode = "en"
+paginate = 5
+pluralizelisttitles = false
+theme = "casper"
+title = "Sarath Shyam"
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/post/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 99
+    url = "/about/"
+[[menu.main]]
+  name = "Tags"
+  url = "/tags"
+  weight = 102
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 101
+
+[params]
+author = "Sarath Shyam"
+authorlocation = "india"
+authorwebsite = "https://sarathshyam.in"
+highlightjs = true
+hjsStyle = "zenburn"
+#authorbio = "IT software and Security Engineer, Open source enthusiast."
+#cover = "images/cover_polenord.jpg"
+description = "Software Engineer | "
+githubName = "sarathshyam"
+linkedinName = "sarathshyam"
+#googleAnalyticsUserID = "UA-79101-12"
+hideHUGOSupport = false
+#logo = "images/logo.png"
+#twitterName = "vjeantet"
+#customFooterPartial = "netlify.html"
+
+[permalinks]
+post = "/:slug/"
+[sitemap]
+ChangeFreq = ""
+Filename = "sitemap.xml"
+Priority = "-1"

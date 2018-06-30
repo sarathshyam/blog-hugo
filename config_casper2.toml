@@ -1,0 +1,60 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = "sarathshyam-in"
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Sarath Shyam"
+  subtitle    = "Software Engineer | Automobile Enthusiast | Life Long Learner"
+
+  cover       = "img/blog-cover.jpg"
+  description = "Sarath's Blog."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  #twitterName = "faketryghost"
+  #fbName = "fakeghost"
+  githubName = "sarathshyam"
+  linkedinName = "sarathshyam"
+
+  #logo = "hugo-logo.png"
+  orgName = "IN"
+  #orgWebsite = "https://www.telematika.org"
+  #orgDescription = "Here is a description placeholder for your org"
+
+  author = "Sarath"
+  authorAvatar = "img/ghost-icon.png"
+  authorLocation = "India"
+  #authorWebsite = "https://eueung.github.io"
+  #authorDescription = "Describe yourself.."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+[[menu.main]]
+  name = "Tags"
+  url = "/tags"
+  weight = 100
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 99
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 95

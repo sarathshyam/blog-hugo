@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Letsencrypt on Sarath Shyam</title>
+    <link>https://sarathshyam.in/tags/letsencrypt/</link>
+    <description>Recent content in Letsencrypt on Sarath Shyam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 05 Feb 2017 15:12:42 +0530</lastBuildDate>
+    
+	<atom:link href="https://sarathshyam.in/tags/letsencrypt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HowTo: Installing LetsEncrypt SSL certificate on AWS Bitnami EC2</title>
+      <link>https://sarathshyam.in/post/letsencrypt/</link>
+      <pubDate>Sun, 05 Feb 2017 15:12:42 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/post/letsencrypt/</guid>
+      <description>This blog is hosted at AWS on an EC2 VPS which is a Bitnami WordPress image. I decided to switch the blog to serve over HTTPS and in turn try out Let’sEncrypt which is a free, automated Certificate Authority(CA).
+With Let’Encrypt, certificate issuance is an automated process hence it is required to use an ACME client to prove that we have control over the domain for which we want to register the certificate for.</description>
+    </item>
+    
+  </channel>
+</rss>

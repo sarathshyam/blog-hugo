@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kafka Streams on Sarath Shyam</title>
+    <link>https://sarathshyam.in/tags/kafka-streams/</link>
+    <description>Recent content in Kafka Streams on Sarath Shyam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 May 2018 16:59:46 +0530</lastBuildDate>
+    
+	<atom:link href="https://sarathshyam.in/tags/kafka-streams/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first open source contribution- Feeling awesome !</title>
+      <link>https://sarathshyam.in/post/first_os_contr/</link>
+      <pubDate>Sat, 12 May 2018 16:59:46 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/post/first_os_contr/</guid>
+      <description>Last week, a pull request that I created for fixing a bug in Spring cloud stream kafka streams binder got accepted. It feels really awesome :). I ran into this defect while building a stream processing application using kafka streams for a monitoring tool that I was building at work(which started as a hobby project).
+More than anything else, to me, the most important take away from this opportunity was to understand and navigate an un-familiar code base to see where it breaks and the impact of the fix.</description>
+    </item>
+    
+  </channel>
+</rss>

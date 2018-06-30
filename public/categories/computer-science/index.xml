@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science on Sarath Shyam</title>
+    <link>https://sarathshyam.in/categories/computer-science/</link>
+    <description>Recent content in Computer Science on Sarath Shyam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 02 Dec 2017 16:49:49 +0530</lastBuildDate>
+    
+	<atom:link href="https://sarathshyam.in/categories/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Reference notes on Computer Science topics</title>
+      <link>https://sarathshyam.in/post/cs_refnotes/</link>
+      <pubDate>Sat, 02 Dec 2017 16:49:49 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/post/cs_refnotes/</guid>
+      <description>Today, I am starting a very ambitious personal project- an ever growing reference on things related to Computer Science and Software Engineering as I explore and learn. I started working on documenting this with the intention of becoming a better, more grounded and rounded Software Engineer. I would like to call it the list of ‘things I know that I don’t know them’, humbly reminding myself that no man knows it all- the more we have on our don’t know list, the more rounded we become.</description>
+    </item>
+    
+  </channel>
+</rss>

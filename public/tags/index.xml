@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sarath Shyam</title>
+    <link>https://sarathshyam.in/tags/</link>
+    <description>Recent content in Tags on Sarath Shyam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 05 Feb 2017 15:12:42 +0530</lastBuildDate>
+    
+	<atom:link href="https://sarathshyam.in/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aws</title>
+      <link>https://sarathshyam.in/tags/aws/</link>
+      <pubDate>Sun, 05 Feb 2017 15:12:42 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cs</title>
+      <link>https://sarathshyam.in/tags/cs/</link>
+      <pubDate>Sat, 02 Dec 2017 16:49:49 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/tags/cs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kafka Streams</title>
+      <link>https://sarathshyam.in/tags/kafka-streams/</link>
+      <pubDate>Sat, 12 May 2018 16:59:46 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/tags/kafka-streams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lancer</title>
+      <link>https://sarathshyam.in/tags/lancer/</link>
+      <pubDate>Sat, 04 Feb 2017 14:49:35 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/tags/lancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Letsencrypt</title>
+      <link>https://sarathshyam.in/tags/letsencrypt/</link>
+      <pubDate>Sun, 05 Feb 2017 15:12:42 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/tags/letsencrypt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitsubishi</title>
+      <link>https://sarathshyam.in/tags/mitsubishi/</link>
+      <pubDate>Sat, 04 Feb 2017 14:49:35 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/tags/mitsubishi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obd</title>
+      <link>https://sarathshyam.in/tags/obd/</link>
+      <pubDate>Sat, 04 Feb 2017 14:49:35 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/tags/obd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self Learning</title>
+      <link>https://sarathshyam.in/tags/self-learning/</link>
+      <pubDate>Sat, 02 Dec 2017 16:49:49 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/tags/self-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Clould Streams</title>
+      <link>https://sarathshyam.in/tags/spring-clould-streams/</link>
+      <pubDate>Sat, 12 May 2018 16:59:46 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/tags/spring-clould-streams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wordpress</title>
+      <link>https://sarathshyam.in/tags/wordpress/</link>
+      <pubDate>Sun, 05 Feb 2017 15:12:42 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

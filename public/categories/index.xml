@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Sarath Shyam</title>
+    <link>https://sarathshyam.in/categories/</link>
+    <description>Recent content in Categories on Sarath Shyam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 04 Feb 2017 14:49:35 +0530</lastBuildDate>
+    
+	<atom:link href="https://sarathshyam.in/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automotive</title>
+      <link>https://sarathshyam.in/categories/automotive/</link>
+      <pubDate>Sat, 04 Feb 2017 14:49:35 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/categories/automotive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Science</title>
+      <link>https://sarathshyam.in/categories/computer-science/</link>
+      <pubDate>Sat, 02 Dec 2017 16:49:49 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/categories/computer-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://sarathshyam.in/categories/open-source/</link>
+      <pubDate>Sat, 12 May 2018 16:59:46 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/categories/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://sarathshyam.in/categories/web/</link>
+      <pubDate>Sun, 05 Feb 2017 15:12:42 +0530</pubDate>
+      
+      <guid>https://sarathshyam.in/categories/web/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

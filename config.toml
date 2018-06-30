@@ -1,0 +1,56 @@
+## Basic Configuration
+baseurl = "https://sarathshyam.in/"
+languageCode = "en"
+
+theme = "hyde-hyde"
+title = "Sarath Shyam"
+
+## Hugo Built-in Features
+disqusShortname = "sarathshyam-in"
+# googleAnalytics = "your-google-analytics-id"
+# enableRobotsTXT = true
+## Site Settings
+[params]
+    author = "Sarath Shyam"
+    title = "Sarath's Blog"
+    description = "Software Engineer | Automobile Enthusiast | Life Long Learner"
+    authorimage = "/img/ss.jpg"
+    dateformat = "Jan 2, 2006"
+    highlightjs = true
+    highlightjsstyle = "zenburn"
+    #themeColor = "theme-base-0f"
+    # please choose either GraphComment or Disqus
+    # GraphCommentId = "your-graph-comment-id"
+    #layoutReverse = true
+    sidebarSticky = false
+
+## Social Accounts
+[params.social]
+    github = "sarathshyam"
+    #instagram = "<username>"
+    #xing = "<username>"
+    linkedin = "sarathshyam"
+    #twitter = "<username>"
+    #facebook = "<username>"
+    #stackoverflow = "<username>"
+    email = "sarathshyam@gmail.com"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/post/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 99
+    url = "/about/"
+[[menu.main]]
+  name = "Tags"
+  url = "/tags"
+  weight = 102
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 101
